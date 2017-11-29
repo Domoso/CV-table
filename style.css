@@ -14,6 +14,10 @@ table {
 	margin-right: 3%;
 }
 
+.tableau2 {
+	
+}
+
 tr {
 	border: 1px solid black;
 }
@@ -69,5 +73,21 @@ tbody h3 {
 }
 
 .soustableau3 {
-	margin-top: -195px;
+	margin-top: -208px;
+}
+
+.capacités {
+	width: 300px;
+	line-height: 30px;
+}
+
+progress {
+	background-color: white;
+	border-color: #3D91CF;
+	border: none;
+	width: 280px;
+}
+
+.progress {
+	line-height: 30px;
 }
