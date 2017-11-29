@@ -55,9 +55,14 @@ thead h2 {
 	margin-left: 30px;
 }
 
-thead h3 {
+thead h6 {
 	color: #3D91CD;
 	padding-left: 535px;
+}
+
+thead h3 {
+	color: #3D91CD;
+	margin-left: -488px;
 }
 
 tbody h3 {
