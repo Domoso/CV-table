@@ -22,6 +22,10 @@ th {
 	border: 1px solid black;
 }
 
+td {
+	border: 1px solid black;
+}
+
 .div1 {
 	background-color: #3D91CD;
 	height: 80px;
