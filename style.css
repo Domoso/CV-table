@@ -60,7 +60,7 @@ thead h6 {
 	padding-left: 535px;
 }
 
-thead h3 {
+.chieur {
 	color: #3D91CD;
 	margin-left: -488px;
 }
@@ -74,7 +74,7 @@ tbody h3 {
 }
 
 .soustableau3 {
-	margin-top: -10px;
+	margin-top: -20px;
 }
 
 .capacités {
@@ -107,5 +107,14 @@ progress {
 }
 
 .progress3 {
+	line-height: 30px;
+}
+
+.basicshit {
+	width: 300px;
+	line-height: 30px;
+}
+
+.progress4 {
 	line-height: 30px;
 }
