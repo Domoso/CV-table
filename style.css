@@ -1,0 +1,30 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	font-family: "Arial";
+}
+
+table {
+	border: 1px solid black;
+	margin-top: 3%;
+	margin-left: 3%;
+	margin-right: 3%;
+}
+
+tr {
+	border: 1px solid black;
+}
+
+.div1 {
+	background-color: #3D91CD;
+	height: 80px;
+	width: 110px;
+	color: white;
+}
+
+.div1 p {
+	padding-top: 60px;
+}
