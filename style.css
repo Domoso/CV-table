@@ -26,13 +26,28 @@ td {
 	border: 1px solid black;
 }
 
+i {
+	color: #3D91CD;
+}
+
 .div1 {
 	background-color: #3D91CD;
 	height: 80px;
 	width: 110px;
 	color: white;
+	margin-left: 30px;
 }
 
 .div1 p {
 	padding-top: 60px;
+}
+
+thead h1 {
+	text-align: left;
+	color: #3D91CD;
+	font-size: 70px;
+}
+
+thead h2 {
+	text-align: left;
 }
