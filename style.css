@@ -14,10 +14,6 @@ table {
 	margin-right: 3%;
 }
 
-body :nth-child(4) {
-	width: 915px;
-}
-
 tr {
 	border: 1px solid black;
 }
@@ -66,4 +62,8 @@ thead h3 {
 
 tbody h3 {
 	color: #3D91CD;
+}
+
+thead h5 {
+	margin-top: -10px;
 }
