@@ -69,7 +69,7 @@ tbody h3 {
 }
 
 .soustableau3 {
-	margin-top: -218px;
+	margin-top: -10px;
 }
 
 .capacités {
@@ -85,6 +85,22 @@ progress {
 	margin-left: 23px;
 }
 
-.progress {
+.progress1 {
+	line-height: 30px;
+}
+
+.outils {
+	line-height: 30px;
+}
+
+.progress2 {
+	line-height: 30px;
+}
+
+.système {
+	line-height: 30px;
+}
+
+.progress3 {
 	line-height: 30px;
 }
