@@ -54,3 +54,8 @@ thead h2 {
 	text-align: left;
 	margin-left: 30px;
 }
+
+thead h3 {
+	color: #3D91CD;
+	padding-left: 535px;
+}
