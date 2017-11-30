@@ -28,9 +28,17 @@ table {
 	margin-top: -40px;
 }
 
+.tableau3 {
+	height: 1213px;
+}
+
 tfoot {
+	position: absolute;
 	background-color: #3D91CD;
+	width: 1213px;
 	line-height: 10px;
+	margin-top: -22px;
+	margin-left: -2px;
 }
 
 i {
@@ -95,14 +103,20 @@ thead h2 {
 	margin-left: 30px;
 }
 
+.coordonnées {
+	text-align: left;
+}
+
 thead h6 {
 	color: #3D91CD;
 	padding-left: 535px;
 }
 
 .chieur {
+	position: absolute;
 	color: #3D91CD;
-	margin-left: -488px;
+	margin-top: 145px;
+	margin-left: 18px;
 }
 
 tbody h3 {
@@ -118,7 +132,7 @@ tbody h3 {
 }
 
 .soustableau3 {
-	margin-top: 10px;
+	margin-top: 160px;
 }
 
 .capacités {
@@ -160,5 +174,14 @@ progress {
 }
 
 .progress4 {
+	line-height: 30px;
+}
+
+h4 {
+	color: #3D91CD;
+	opacity: 0.7;
+}
+
+.espace {
 	line-height: 30px;
 }
