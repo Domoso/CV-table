@@ -21,6 +21,12 @@ table {
 	width: 1213px;
 }
 
+.tableau2 {
+	position: absolute;
+	width: 1213px;
+	margin-top: -40px;
+}
+
 tfoot {
 	background-color: #3D91CD;
 	height: 20px;
