@@ -5,13 +5,25 @@
 
 body {
 	font-family: "Arial";
+	background-color: #B7B7B7;
 }
 
 table {
 	border: 1px solid black;
 	margin-top: 3%;
+	margin-bottom: 3%;
 	margin-left: 3%;
 	margin-right: 3%;
+	background-color: #f1f1f1;
+}
+
+.tableau1 {
+	width: 1213px;
+}
+
+tfoot {
+	background-color: #3D91CD;
+	height: 20px;
 }
 
 tr {
@@ -102,12 +114,16 @@ tbody h3 {
 	color: #3D91CD;
 }
 
+.soustableau1 {
+	margin-top: -335px;
+}
+
 .soustableau2vide {
 	width: 20px;
 }
 
 .soustableau3 {
-	margin-top: -20px;
+	margin-top: 10px;
 }
 
 .capacités {
